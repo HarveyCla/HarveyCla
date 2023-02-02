@@ -81,15 +81,15 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrabro&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=harveywatsoncw&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=mrabro&theme=radical&hide_border=true" align="left" style="width: 100%" />
+<img src="https://streak-stats.demolab.com/?user=harveywatsoncw&theme=radical&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>
 
-[![Harvey Abro's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrabro&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/mrabro)
+[![Harvey Watson's github activity graph](https://activity-graph.herokuapp.com/graph?username=harveywatsoncw&theme=react&custom_title=Contribution%20Graph&radius=10)](https://github.com/HarveyCla)
 
 
 <div>
@@ -102,7 +102,7 @@
   
  
 ## Last Tweet
-[![Harvey Watsons's Tweet](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/mrabro)
+[![Harvey Watsons's Tweet](https://tweets-as-an-image.herokuapp.com/tweet?twitterHandle=mrabro)](https://twitter.com/harveywatsoncw)
 
 <br/>  
 
@@ -116,25 +116,25 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/mrabro" target="_blank">
+<a href="https://github.com/HarveyCla" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/mrabro" target="_blank">
+<a href="https://twitter.com/harveywatsoncw" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mrabro" target="_blank">
+<a href="https://linkedin.com/in/harveywatsoncw" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/mrabro" target="_blank">
+<a href="https://www.facebook.com/harveywatsoncw" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/mrabro" target="_blank">
+<a href="https://instagram.com/harveywatsoncw" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/mrabro" target="_blank">
+<a href="https://gitlab.com/harveywatsoncw" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/2698010/harvey-watson" target="_blank">
+<a href="https://stackoverflow.com/users/2698010/harveywatsoncw" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -146,9 +146,9 @@
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 <br/> 
-<br/>  
+<br/
 <div align="center">
-            <a href="https://www.buymeacoffee.com/mrabro" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/harveywatsoncw" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
@@ -160,7 +160,7 @@
                         align="center"
                     />
                 </a>
-            <a href="https://ko-fi.com/mrabro" target="_blank" style="display: inline-block;">
+            <a href="https://ko-fi.com/harveywatsoncw" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
                     align="center"
@@ -169,5 +169,5 @@
 <br />
 
 ------
-Credit: [mrabro](https://github.com/mrabro)
-Last Edit: 01/12/2022
+Credit: [harveywatsoncw](https://github.com/HarveyCla)
+Last Edit: 01/02/2023
