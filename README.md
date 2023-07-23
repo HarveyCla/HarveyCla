@@ -6,6 +6,7 @@
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div>
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=HarveyCla&count_private=true&show_icons=true&include_all_commits=true)
  
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
