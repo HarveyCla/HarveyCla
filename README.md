@@ -5,16 +5,16 @@
   <a href="https://harveycw.netlify.app/" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
-  </div>
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
- 
+  </div> 
 <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
  </p>
 </br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HarveyCla&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarveyCla.HarveyCla)
 
 ## Skills
 
