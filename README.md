@@ -1,12 +1,12 @@
 ##   🏂 🙇‍♂️ 👋🏻 Hi there, I am Harvey
 <img src="https://github-readme-stats.vercel.app/api?username=HarveyCla&show_icons=true&theme=tokyonight" alt="" align="right" width="380"/>
-<font color="pink"> 🏂 I'm a ex Trainer, Founder and Head of my Organizations.</font>
+<font color="pink"> 🏂 I'm React & React Native Developer</font>
 </br>
 <font color="pink"> 🙇‍♂️ I quit my job to be a developer.</font>
 </br>
-<font color="pink"> 👨‍💻 Nowadays I am learning development to be a Fullstack Developer.</font>
+<font color="pink"> 👨‍💻 Nowadays I am learning iOS Development.</font>
 </br>
-<font color="pink"> 🔥 My developer career started in 2023, and it goes on...</font>
+<font color="pink"> 🔥 My developer career started in 2020, and it goes on...</font>
 <br>
 <font color="pink"> 🚀 Currently, I am focusing on React, Javascript, SASS, Bootstrap...</font>
 
@@ -14,8 +14,8 @@
 ![](https://komarev.com/ghpvc/?username=HarveyCla&color=green&style=for-the-badge)
 #### 📬 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagriyanik/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:HarveyClade@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harveywatson/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:harvey@clarusway.com)
 
 
 
@@ -60,11 +60,11 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look
 :-------------------------|-------------------------|-------------------------
-[Random User App](https://randomuserapp-cihan.netlify.app/)| React, Local Storage, React Hooks, Axios |![Random User App](https://github.com/HarveyCla/Random_User_App_react-axios-useState-useEffect/assets/132518854/7c7fe185-4e7d-4db4-a737-a7344f6bf6d6)
-[Appointment App](https://appointment-app-cihan.netlify.app/)| React, Local Storage, React Hooks |![Appointment App](https://github.com/HarveyCla/Appointment_App_react/assets/132518854/cf9e8722-acf9-4a9f-833c-0e96152f5872)
-[ToDo_App_with_React](https://todoapp-cihan.netlify.app/)| React, Bootstrap, Local Storage |![ToDo_App_with_React](https://github.com/HarveyCla/ToDo_App_with_React_react-local_storage-bootstrap/assets/132518854/5177848b-5707-428e-8f7a-31cfc0b2358c)
-[NBA Legends App](https://nbalegends-cihan.netlify.app/)| React, Bootstrap|![NBA_Legends App](https://github.com/HarveyCla/NBA_Legends_App_react-bootstrap/assets/132518854/33494b45-296e-414a-b376-32c0867af0ac)
-[Horoscope App](https://horoscopeapp-cihan.netlify.app/)| React, SASS, Bootstrap|![Horoscope App](https://github.com/HarveyCla/Horoscope_App_react-sass-bootstrap/assets/132518854/2df7798d-21bd-4593-a273-245606c3d4f7)
+[Random User App](https://randomuserapp-harvey.netlify.app/)| React, Local Storage, React Hooks, Axios |![Random User App](https://github.com/HarveyCla/Random_User_App_react-axios-useState-useEffect/assets/132518854/7c7fe185-4e7d-4db4-a737-a7344f6bf6d6)
+[Appointment App](https://appointment-app-harvey.netlify.app/)| React, Local Storage, React Hooks |![Appointment App](https://github.com/HarveyCla/Appointment_App_react/assets/132518854/cf9e8722-acf9-4a9f-833c-0e96152f5872)
+[ToDo_App_with_React](https://todoapp-harvey.netlify.app/)| React, Bootstrap, Local Storage |![ToDo_App_with_React](https://github.com/HarveyCla/ToDo_App_with_React_react-local_storage-bootstrap/assets/132518854/5177848b-5707-428e-8f7a-31cfc0b2358c)
+[NBA Legends App](https://nbalegends-harvey.netlify.app/)| React, Bootstrap|![NBA_Legends App](https://github.com/HarveyCla/NBA_Legends_App_react-bootstrap/assets/132518854/33494b45-296e-414a-b376-32c0867af0ac)
+[Horoscope App](https://horoscopeapp-harvey.netlify.app/)| React, SASS, Bootstrap|![Horoscope App](https://github.com/HarveyCla/Horoscope_App_react-sass-bootstrap/assets/132518854/2df7798d-21bd-4593-a273-245606c3d4f7)
 [Weather App](https://HarveyCla.github.io/WeatherApp_html-css-js/)| HTML5, CSS3, Javascript|![Weather App](https://github.com/HarveyCla/WeatherApp_html-css-js/assets/132518854/834a3515-51c6-4a38-aecb-69cb8770bff5)
 [ToDo App](https://HarveyCla.github.io/ToDo_App_html-css-js/)| HTML5, CSS3, Javascript|![ToDo App](https://github.com/HarveyCla/ToDo_App_html-css-js/assets/132518854/afa851e8-2001-4465-bc5f-86b8318cf08a)
 [iOS Calculator](https://HarveyCla.github.io/iOS-Calculator_html-css-js/)| HTML5, CSS3, Javascript|![iOS Calculator](https://github.com/HarveyCla/iOS-Calculator_html-css-js/assets/132518854/1f2e9990-6044-4ecc-ab53-c9efe96a2dc3)
